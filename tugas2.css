@@ -5,7 +5,7 @@ h1, h2 { /* group selectors*/
     color: white;
 }
 body {
-    background-image: url("/latihan/images/wsbk1.jpg");
+    background-image: url("/tugascss1/wsbk1.jpg");
     background-size: cover;
     background-repeat: no-repeat;
 

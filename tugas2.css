@@ -1,0 +1,41 @@
+* { /* universal selectors*/
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+h1, h2 { /* group selectors*/
+    color: white;
+}
+body {
+    background-image: url("/latihan/images/wsbk1.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+
+}
+h1 {
+    background-color: #000000;
+    color: black;
+}
+p {
+  font-size: 20px;  
+  text-align: justify;
+  color: black;
+}
+h2 {
+    text-align: center;
+   background-color: blue; 
+}
+div {
+    padding: 20px;
+    background-color: rgba(255, 99, 300, 0.5);
+    margin: 100px;
+    
+}
+
+img {
+    width: 600px;
+    height: 300px;
+    margin: 5px;
+}
+.border {
+    border-style: dashed;
+    border-radius: 5px;
+}
